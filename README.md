@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm currently working on producing machine learning and data processing, cleaning and presenting examples in Python. I primarily use NumPy, matplotlib, pandas and scikit-learn.
 
 <!--
 **johgreen/johgreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
