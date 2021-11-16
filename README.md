@@ -6,7 +6,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=johgreen&theme=prussian&hide=issues&show_icons=True"> &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johgreen&theme=prussian&show_icons=True" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=johgreen/DataAnalysis&theme=prussian" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=johgreen)(https://github.com/johgreen/github-readme-stats">
+
 
 ## 🔧 Technologies and Tools 
 <img align src="https://img.shields.io/badge/Code-Python-informational?style=flat" >&nbsp;
