@@ -10,4 +10,7 @@
 ## 🔧 Technologies and Tools 
 <img align src="https://img.shields.io/badge/Code-Python-informational?style=flat" >&nbsp;
 <img align src="https://img.shields.io/badge/Code-SQL-informational?style=flat" >&nbsp;
-<img align src="https://img.shields.io/badge/Library-Sklearn-informational?style=flat" >
+<img align src="https://img.shields.io/badge/Library-Sklearn-informational?style=flat" > &nbsp;
+<img align src="https://img.shields.io/badge/Library-NumPy-informational?style=flat" > &nbsp;
+<img align src="https://img.shields.io/badge/Library-pandas-informational?style=flat" > &nbsp;
+<img align src="https://img.shields.io/badge/Library-matplotlib-informational?style=flat" > &nbsp;
