@@ -7,5 +7,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=johgreen&theme=prussian">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johgreen&theme=prussian" />
 
-## :WRENCH: Technologies and Tools 
+## 🔧 Technologies and Tools 
 <img align src="https://img.shields.io/badge/Code-Python-informational?style=flat" > 
