@@ -10,4 +10,4 @@
 ## 🔧 Technologies and Tools 
 <img align src="https://img.shields.io/badge/Code-Python-informational?style=flat" >
 <img align src="https://img.shields.io/badge/Code-SQL-informational?style=flat" >
-<img align src="https://img.shields.io/badge/Library-Scikit-Learn-informational?style=flat" >
+<img align src="https://img.shields.io/badge/Library-Sklearn-informational?style=flat" >
