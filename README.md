@@ -19,3 +19,15 @@
 <img align src="https://img.shields.io/badge/Tools-SQLite3-informational?style=flat" > &nbsp;
 
 :email: You can reach me at johnsgreen112@gmail.com
+
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][1.2]][1].
+
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/johngreen112/
