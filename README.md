@@ -6,7 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=johgreen&theme=prussian&hide=issues&show_icons=True"> &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johgreen&theme=prussian&show_icons=True" /> &nbsp;
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width=40px> 
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width=500px> 
 
 
 ## 🔧 Technologies and Tools 
