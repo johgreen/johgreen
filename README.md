@@ -6,7 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=johgreen&theme=prussian&hide=issues&show_icons=True"> &nbsp;
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width=300px height=175px> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johgreen&theme=prussian&show_icons=True" />
+<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=johgreen&theme=prussian&show_icons=True" />
 
 
 ## 🔧 Technologies and Tools  
@@ -18,11 +18,11 @@
 <img align src="https://img.shields.io/badge/Library-matplotlib-informational?style=flat" > &nbsp;
 <img align src="https://img.shields.io/badge/Tools-SQLite3-informational?style=flat" > &nbsp;
 
-:email: You can reach me at johnsgreen112@gmail.com
+:email: You can reach me at johnsgreen112@gmail.com or [![LinkedIn][1.2]][1]
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][1.2]][1]
+
 
 <!-- Icons -->
 
