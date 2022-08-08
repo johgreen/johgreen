@@ -16,6 +16,7 @@
 <img align src="https://img.shields.io/badge/Library-Sklearn-informational?style=flat" > &nbsp;
 <img align src="https://img.shields.io/badge/Library-NumPy-informational?style=flat" > &nbsp;
 <img align src="https://img.shields.io/badge/Library-pandas-informational?style=flat" > &nbsp;
+<img align src="https://img.shields.io/badge/Library-PyMongo-informational?style=flat" > &nbsp;
 <img align src="https://img.shields.io/badge/Library-matplotlib-informational?style=flat" > &nbsp;
 <img align src="https://img.shields.io/badge/Tools-SQLite3-informational?style=flat" > &nbsp;
 
